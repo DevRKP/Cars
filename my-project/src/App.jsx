@@ -4,7 +4,7 @@ import React from 'react'
 const App = () => {
   return (
     <>
-    <div className='h-screen bg-zinc-800'>
+    <div className='h-screen bg-zinc-700'>
       <h1 className='font-bold text-white'>Hello World</h1>
     </div>
     </>
